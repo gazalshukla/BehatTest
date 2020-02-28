@@ -7,8 +7,23 @@ Before running this project, I'd like to list some pre-requisites below which ar
 3)Chromedriver.exe & selenium-server-standalone-3.141.59 in 
 
 * Download Simple-Behat-Test project and move it in your behat folder in C drive.
-* Open command promt and run "java -Dwebdriver.chrome.driver="d:\Selenium\chromedriver.exe" -jar selenium-server-standalone-3.141.59.jar" .Please note that you will need to change the folder name and drive as per created in your sysytem . 
-* Now , Open in another window and run cd behat
+* Open command prompt and run "java -Dwebdriver.chrome.driver="d:\Selenium\chromedriver.exe" -jar selenium-server-standalone-3.141.59.jar" .Please note that you will need to change the folder name and drive as per created in your sysytem . 
+* Now , Open command prompt in another window and get into Simple-behat-test folder using cd command.
+* Once you are in Simple-behat-test folder , Run the feature using ..\vendor\bin\behat command .
 
-*
+
+
+
+
+
+I have created scenarios for three feature : Login for 5 user accountts ,  Newsletter subscription and Flight search and Search results.
+As i wasn't able to find Featured tour displayed under the Featured Tours section on the homepage.I couldn't automated the scenarios for the same. Provided link is also broken.
+
+
+
+Please note : It has been observed that site sometimes break and scenarios get failed due to this.Also ,User accounts get expired.In case of login scenario fail , you will need to create user accounts and then run the feature.
+
+
+
+
 
