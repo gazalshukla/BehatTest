@@ -3,7 +3,9 @@
 Before running this project, I'd like to list some pre-requisites below which are required to have:
 
 1)Behat and Mink implementation
+
 2)Selenium webdriver implementation
+
 3)Chromedriver.exe & selenium-server-standalone-3.141.59 
 
 * Download simple-behat-test.rar and unzip it. 
