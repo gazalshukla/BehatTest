@@ -18,6 +18,8 @@ Before running this project, I'd like to list some pre-requisites below which ar
 
 I have created scenarios for three feature : Login for 5 user accountts ,  Newsletter subscription and Flight search and Search results.
 As i wasn't able to find Featured tour displayed under the Featured Tours section on the homepage.I couldn't automated the scenarios for the same. Provided link is also broken.
+![broken](https://user-images.githubusercontent.com/35330885/75548325-07ed5080-5a53-11ea-8927-2190e9f59ef7.png)
+
 
 
 
