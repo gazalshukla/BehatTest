@@ -8,7 +8,9 @@ Before running this project, I'd like to list some pre-requisites below which ar
 
 3)Chromedriver.exe & selenium-server-standalone-3.141.59 
 
-* Download simple-behat-test.rar and unzip it. 
+* Click on clone or download button and again click on "Download ZIP"
+* Unzip the project folder .
+* In project folder ,Copy the "Simple-behat-test" folder.
 * Move it in your behat folder in C drive.
 * Open command prompt and run "java -Dwebdriver.chrome.driver="d:\Selenium\chromedriver.exe" -jar selenium-server-standalone-3.141.59.jar" .Please note that you will need to change the folder name and drive as per created in your sysytem . 
 * Now , Open command prompt in another window and get into Simple-behat-test folder using cd command.
